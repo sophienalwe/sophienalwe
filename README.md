@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on open source porjects around Machine learning and education tech.
 - 📫 How to reach me sophienalwe4@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: I've built a smart study nores converter aka note genie using OPENAI's API and I close my apple watch rings with pilates and hip-hop step classes. 
+- ⚡ Fun fact: I've built a smart study notes converter aka note genie using OPENAI's API and I close my apple watch rings with pilates and hip-hop step classes. 
 
 <!---
 sophienalwe/sophienalwe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
