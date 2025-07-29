@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sophienalwe
-- 👀 I’m interested in full stack web development, AI-driven productivity tools and faith-based apps
+- 👀 I’m interested in full stack web development, AI-driven productivity tools and robotics
 - 🌱 I’m currently learning Pytorch, advanced React patterns and deepening my C encryption skills(RSA)
 - 💞️ I’m looking to collaborate on open source porjects around Machine learning and education tech.
 - 📫 How to reach me sophienalwe4@gmail.com
